@@ -1,0 +1,6 @@
+c:\users\ossama\documents\visual studio 2013\Projects\projet fin etude asp\projet fin etude asp\bin\projet fin etude asp.dll.config
+c:\users\ossama\documents\visual studio 2013\Projects\projet fin etude asp\projet fin etude asp\bin\projet fin etude asp.dll
+c:\users\ossama\documents\visual studio 2013\Projects\projet fin etude asp\projet fin etude asp\bin\projet fin etude asp.pdb
+c:\users\ossama\documents\visual studio 2013\Projects\projet fin etude asp\projet fin etude asp\obj\Debug\projet fin etude asp.csprojResolveAssemblyReference.cache
+c:\users\ossama\documents\visual studio 2013\Projects\projet fin etude asp\projet fin etude asp\obj\Debug\projet fin etude asp.dll
+c:\users\ossama\documents\visual studio 2013\Projects\projet fin etude asp\projet fin etude asp\obj\Debug\projet fin etude asp.pdb
